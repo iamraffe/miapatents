@@ -1,5 +1,6 @@
 <?php
 	$page = 1;
+    $page_url = 'firma.php';
 	require_once('languages.php');
     include_once('header.php');
 ?> 

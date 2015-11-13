@@ -1,5 +1,6 @@
 <?php
 	$page = 0;
+    $page_url = '/';
 	require_once('languages.php');
     include_once('header.php');
 ?> 

@@ -1,0 +1,934 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MiaPatents\n"
+"POT-Creation-Date: 2015-11-13 13:36+0100\n"
+"PO-Revision-Date: 2015-11-13 13:58+0100\n"
+"Last-Translator: Rafa Ramírez <r.ramirez@fundaseth.es>\n"
+"Language-Team: Fundaseth\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;translator\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: contacto.php\n"
+"X-Poedit-SearchPath-1: servicios.php\n"
+"X-Poedit-SearchPath-2: documentacion.php\n"
+"X-Poedit-SearchPath-3: firma.php\n"
+"X-Poedit-SearchPath-4: footer.php\n"
+"X-Poedit-SearchPath-5: header.php\n"
+"X-Poedit-SearchPath-6: index.php\n"
+"X-Poedit-SearchPath-7: servicios.php\n"
+
+#: contacto.php:9
+msgid ""
+"En este momento no tenemos vacantes en la plantilla de MIAPatents, pero si "
+"nos autorizas a guardar tu curiculum vitae, lo estudiaremos y de surgir "
+"alguna te llamaremos para una entrevista."
+msgstr ""
+"MIAPatents does not have any positions vacant at the moment. However if you "
+"authorize us to hold your curriculum vitae we will take it into "
+"consideration in the event that a position becomes available."
+
+#: contacto.php:11
+msgid "¿Cuál es el perfil de nuestros trabajadores?"
+msgstr "What is the staff profile at MIAPatents?"
+
+#: contacto.php:13
+msgid ""
+"<span class=\"underline\">Técnicos</span>: En MIAPatents buscamos titulados "
+"superiores o titulados medios en carreras técnicas (Ingenierías, Química, "
+"Farmacia, Biotecnología, Física, Informática,…), con buenos conocimientos de "
+"idiomas (imprescindible alto nivel de Inglés hablado y escrito). No es "
+"necesario tener experiencia con patentes. Sin embargo se valorará haber "
+"trabajado en el sector, haber recibido cursos y, sobre todo, tener aprobado "
+"el European Qualifying Examination (EQE) o alguno de sus papers."
+msgstr ""
+"<span class=\"underline\">Technical backgrounds</span>: At MIAPatents we are "
+"interested in university graduates or postgraduates with a technical degree "
+"(particularly in engineering or in chemical, pharmaceutical, "
+"biotechnological, physical or computer sciences), who are fluent in multiple "
+"languages (a high level of written and spoken English is essential).  Prior "
+"work experience in the patent sector is not necessary. However, any such "
+"work experience or a qualification in the patent sector, above all, having "
+"passed European Qualifying Examination (EQE) or at least one or various EQE "
+"papers, will be considered advantageous."
+
+#: contacto.php:15
+msgid ""
+"<span class=\"underline\">Abogados</span>: En MIAPatents buscamos "
+"licenciados en Derecho con buenos conocimientos de idiomas (imprescindible "
+"alto nivel de Inglés hablado y escrito). Se valorará haber trabajado en el "
+"sector y haber recibido cursos sobre la materia. En particular, buscamos "
+"abogados capaces de tramitar marcas Españolas, Comunitarias e "
+"Internacionales; capaces de oponerse a los registros de terceros, de "
+"interponer recursos, incluyendo Recursos Contencioso Administrativos. "
+"También valoramos que sean capaces de redactar acuerdos de licencias, tanto "
+"de patentes como de marcas, de transferencia de tecnología y que sean "
+"capaces de intervenir en las negociaciones de dichos acuerdos. Por último "
+"valoraremos que tengan experiencia en procesal, especialmente en materia de "
+"propiedad intelectual."
+msgstr ""
+"<span class=\"underline\">Lawyers</span>: At MIAPatents we are interested in "
+"university graduates with a degree in Law, who are fluent in multiple "
+"languages (a high level of written and spoken English is essential). "
+"Specialized studies and/or previous experience in the intellectual property "
+"sector will be considered advantageous. We are particularly interested in "
+"lawyers capable of processing Spanish, European (Community) and "
+"International trademarks, capable of opposing third party registrations and "
+"making appeals, including Contentious Administrative proceedings. In "
+"addition, said lawyers should be able to draft license and technology "
+"transfer agreements for patents and trademarks, as well as be able to take "
+"part in the negotiations thereof. Lastly, any experience with litigation, "
+"particularly in intellectual property matters, will be advantageous."
+
+#: contacto.php:17
+msgid ""
+"<span class=\"underline\">Administrativos</span>: En MIAPatents buscamos "
+"paralegals con buenos conocimientos de idiomas (imprescindible alto nivel de "
+"Inglés hablado y escrito). Se valorará haber trabajado en el sector y haber "
+"recibido cursos sobre la materia. Buscamos administrativos que sepan de "
+"tramitación de patentes y de marcas, ante las diferentes oficinas. Que se "
+"desenvuelvan bien en informática. Valoramos también que tengan conocimientos "
+"contables, de nóminas, en temas fiscales y laborales."
+msgstr ""
+"<span class=\"underline\">Administrative staff</span>: At MIAPatents we are "
+"interested in paralegals that are fluent in multiple languages (a high level "
+"of written and spoken English is essential). Previous experience and/or "
+"specialized studies in the field of Intellectual Property (IP) will be "
+"considered advantageous. Ideally, you should have knowledge of patent and "
+"trademark proceedings at different offices and be computer-literate. "
+"Additionally, any expertise in accountancy concerning payrolls, tax matters "
+"and general management will be valued."
+
+#: contacto.php:19
+msgid ""
+"Si crees reunir alguno de estos perfiles, mándanos tu curiculum vitae con "
+"foto y con tus pretensiones económicas (no se tendrán en cuenta candidaturas "
+"sin este dato) a la dirección de correo-e que figura en nuestra página web. "
+"El mero hecho de enviarnos tu curiculum vitae, tu foto y tus pretensiones "
+"económicas  implica que autorizas a MIAPatents a guardar esta información en "
+"nuestro servidor, de forma confidencial y a utilizarla solo a efectos de una "
+"posible selección para un puesto de trabajo en nuestra firma."
+msgstr ""
+"If you consider that you fit one or more of the profiles stated above, "
+"please send your curriculum vitae and photo to the email address shown in "
+"our website. Please also include your financial expectations (without which, "
+"your application will not be taken into consideration). By sending us your "
+"curriculum vitae, photo and financial expectations you agree to this "
+"information being stored confidentially by MIAPatents, for exclusive use in "
+"a selection process for a possible position at our firm."
+
+#: contacto.php:21
+msgid ""
+"Estamos dispuestos a estudiar candidaturas a tiempo parcial que ayuden a "
+"conciliar la vida familiar."
+msgstr ""
+"Applications for part-time positions will be considered with a view to "
+"helping balance family life."
+
+#: contacto.php:28 contacto.php:42 footer.php:14
+msgid "MADRID"
+msgstr "MADRID"
+
+#: contacto.php:29 contacto.php:53 footer.php:8
+msgid "BILBAO"
+msgstr "BILBAO"
+
+#: contacto.php:35 contacto.php:38
+msgid "Correo electrónico de contacto"
+msgstr "Email"
+
+#: contacto.php:39
+msgid "mail@miapatents.com"
+msgstr "mail@miapatents.com"
+
+#: contacto.php:45 footer.php:15
+msgid "Príncipe de Vergara, 197, oficina 1º A"
+msgstr "Príncipe de Vergara, 197, oficina 1º A"
+
+#: contacto.php:46 footer.php:16
+msgid "28002 Madrid"
+msgstr "28002 Madrid"
+
+#: contacto.php:47 footer.php:17
+msgid "Tel.: (+34) 917011605"
+msgstr "Tel.: (+34) 917011605"
+
+#: contacto.php:48
+msgid "Fax: (+34) 915764583"
+msgstr "Fax: (+34) 915764583"
+
+#: contacto.php:56
+msgid "Paulino Mendívil,1, bajo derecha"
+msgstr "Paulino Mendívil,1, bajo derecha"
+
+#: contacto.php:57 footer.php:10
+msgid "48930 Las Arenas (Vizcaya)"
+msgstr "48930 Las Arenas (Vizcaya)"
+
+#: contacto.php:58 footer.php:11
+msgid "Tel.: (+34) 944314083"
+msgstr "Tel.: (+34) 944314083"
+
+#: contacto.php:59
+msgid "Fax: (+34) 944631837"
+msgstr "Fax: (+34) 944631837"
+
+#: documentacion.php:11 documentacion.php:17
+msgid "ENLACES"
+msgstr "LINKS"
+
+#: documentacion.php:12 documentacion.php:27
+msgid "DOCUMENTOS"
+msgstr "DOCUMENTS"
+
+#: documentacion.php:21
+msgid "Oficina Española de Patentes y Marcas (OEPM)"
+msgstr "Spanish Patent Office"
+
+#: documentacion.php:22
+msgid "Oficina Europea de Patentes (OEP)"
+msgstr "European Patent Office (EPO)"
+
+#: documentacion.php:23
+msgid "Organización Mundial de la Propiedad Intelectual (OMPI)"
+msgstr "World Intellectual Property Organization (WIPO)"
+
+#: documentacion.php:24
+msgid "Oficina de Armonización del Mercado Interior (OAMI)"
+msgstr "Office for Harmonization of Internal Market (OHIM)"
+
+#: documentacion.php:31
+msgid "Documento de representación OEPM"
+msgstr "Power of Attorney (PoA) before Spanish Patent Office"
+
+#: documentacion.php:32
+msgid "Documento de representación EPO"
+msgstr "Power of Attorney (PoA) before EPO"
+
+#: documentacion.php:33
+msgid "Documento de representación OAMI"
+msgstr "Power of Attorney (PoA) before OHIM"
+
+#: documentacion.php:34
+msgid "Documento de representación PCT"
+msgstr "Power of Attorney (PoA) for PCT applns."
+
+#: documentacion.php:35
+msgid "Acuerdo de confidencialidad (CDA)"
+msgstr "Confidentiality Agreement"
+
+#: documentacion.php:36
+msgid "Ficha cliente"
+msgstr "Client Data Sheet"
+
+#: documentacion.php:37
+msgid "Instrucciones para la redacción de una memoria de patente"
+msgstr "Information required for drafting a patent appln."
+
+#: documentacion.php:38
+msgid "Información para elaborar informe patentabilidad"
+msgstr "Information required for carrying out a patentability report"
+
+#: documentacion.php:39
+msgid "Información para elaborar informe de infracción/FTO"
+msgstr "Information required for carrying out a FTO report"
+
+#: documentacion.php:40
+msgid "Instrucciones para la solicitud de un diseño industrial"
+msgstr "Information required for filing a design appln."
+
+#: documentacion.php:41
+msgid "Información para solicitar una marca"
+msgstr "Information required for filing a trademark"
+
+#: firma.php:8 firma.php:127
+msgid "Manuel Illescas"
+msgstr "Manuel Illescas"
+
+#: firma.php:11
+msgid "Socio Director"
+msgstr "MANAGING PARTNER"
+
+#: firma.php:13
+msgid "Agente Europeo de Patentes (desde 2007)."
+msgstr "European Patent Attorney (since 2007)."
+
+#: firma.php:15
+msgid ""
+"Agente Español de la Propiedad Industrial, autorizado para ejercer ante la "
+"Oficina Española de Patentes y Marcas (OEPM) y la Oficina de Armonización "
+"del Mercado Interior (OAMI) (desde 1998)."
+msgstr ""
+"Spanish IP Agent, authorized representative before the Spanish Patent and "
+"Trademark Office (SPTO) and the Office for Harmonization in the Internal "
+"Market (OHIM) (since 1998)."
+
+#: firma.php:17
+msgid "Doctor en Bioquímica, Universidad Complutense, Madrid (1992)."
+msgstr "PhD in Biochemistry, Universidad Complutense, Madrid (1992)."
+
+#: firma.php:19
+msgid "Máster en Ingeniería Ambiental, E.O.I., Madrid (1992)."
+msgstr "Master's degree in Environmental Engineering, E.O.I., Madrid (1992)."
+
+#: firma.php:26
+msgid "manuel.illescas@miapatents.com"
+msgstr "manuel.illescas@miapatents.com"
+
+#: firma.php:30
+msgid ""
+"Inicia su carrera profesional en el mundo de la investigación biomédica "
+"recibiendo diversas becas para la realización de su tesis doctoral."
+msgstr ""
+"Manuel began his professional career in the world of biomedical research and "
+"was granted several PhD scholarships."
+
+#: firma.php:32
+msgid ""
+"Accede por oposición al cuerpo de titulados superiores de la Oficina "
+"Española de Patentes y Marcas (OEPM) en la que ejerce durante 8 años de "
+"examinador."
+msgstr ""
+"Manuel joined the body of Spanish Patent and Trademark Office (SPTO) "
+"graduates by open examination, where he practiced as an examiner for 8 years."
+
+#: firma.php:33
+msgid ""
+"En 1993 se incorpora la firma Elzaburu, empresa que deja en 2007, como socio "
+"senior. En esa fecha funda González-Bueno & Illescas, que en 2013 pasa a ser "
+"la actual MIAPatents."
+msgstr ""
+"In 1993 Manuel joined the firm Elzaburu, which he left in 2007, as a Senior "
+"Partner. At that point González-Bueno & Illescas was founded, which in 2013 "
+"became MIAPatents."
+
+#: firma.php:34
+msgid ""
+"Es ponente habitual en seminarios y cursos sobre propiedad industrial e "
+"innovación y, en la actualidad, a su experiencia en el mundo de la propiedad "
+"industrial, ha unido su inquietud por los proyectos de investigación en el "
+"sector de la biotecnología, mediante la participación como accionista y "
+"consejero en diversas compañías de capital-semilla: Inverbio (2005) y Cross "
+"Road Biotech (2007); así como director científico de otras (SJT Molecular "
+"Research, 2013)."
+msgstr ""
+"Manuel serves as a regular speaker at seminars and lectures on industrial "
+"property and innovation. He has combined his experience in the world of "
+"industrial and intellectual property with his interest in research projects "
+"in the field of biotechnology through engagement as a shareholder and "
+"advisor in several seed capital companies such as Inverbio (2005) and Cross "
+"Road Biotech (2007), and as a science director in other companies such as "
+"SJT Molecular Research (2013)."
+
+#: firma.php:35
+msgid ""
+"Es miembro de diversas organizaciones y asociaciones: Colegio Oficial de "
+"Agentes de la Propiedad Industrial de España; Colegio Oficial de Biólogos de "
+"España; International Association for the Protection of Intellectual "
+"Property (AIPPI); Fédération Internationale des Conseils en Propriété "
+"Industrielle (FICPI); Asociación de Agentes Españoles autorizados ante "
+"Organizaciones Internacionales de Propiedad Industrial e Intelectual "
+"(AGESORPI); American Intellectual Property Law Association (AIPLA) y "
+"Institute of Professional Representatives before the European Patent Office "
+"(EPI)."
+msgstr ""
+"Manuel is a member of several organizations and associations, including the "
+"Colegio Oficial de Agentes de la Propiedad Industrial de España, the Colegio "
+"Oficial de Biólogos de España, the International Association for the "
+"Protection of Intellectual Property (AIPPI), Fédération Internationale des "
+"Conseils en Propriété Industrielle (FICPI), Asociación de Agentes Españoles "
+"autorizados ante Organizaciones Internacionales de Propiedad Industrial e "
+"Intelectual (AGESORPI), American Intellectual Property Law Association "
+"(AIPLA) and Institute of Professional Representatives before the European "
+"Patent Office (EPI)."
+
+#: firma.php:39 firma.php:132
+msgid "Gwion Harfoot"
+msgstr "Gwion Harfoot"
+
+#: firma.php:42 firma.php:67 firma.php:93
+msgid "Asociado"
+msgstr "ASSOCIATE "
+
+#: firma.php:44
+msgid ""
+"Doctor en Química, Australian National University, Canberra, Australia "
+"(2004)."
+msgstr ""
+"PhD in Chemistry, Australian National University, Canberra, Australia (2004)."
+
+#: firma.php:46
+msgid ""
+"Máster en Ciencias Químicas, University of Waikato, Hamilton, Nueva Zelanda "
+"(2000)."
+msgstr ""
+"Master’s degree in Chemistry, University of Waikato, Hamilton, New Zealand "
+"(2000)."
+
+#: firma.php:48
+msgid ""
+"Licenciado en Ciencia Químicas. University of Waikato, Hamilton, Nueva "
+"Zelanda (2000)."
+msgstr ""
+"Bachelor of Science degree, University of Waikato, Hamilton, New Zealand "
+"(1997)."
+
+#: firma.php:50
+msgid ""
+"Se incorporó a MIAPatents en 2012 donde se ha especializado en el área de "
+"invenciones químico-farmacéuticas y biotecnológicas, donde su actividad se "
+"centra en la redacción de patentes, informes de patentabilidad, estudios de "
+"infracción y libertad de operación, y tramitación de solicitudes ante la "
+"Oficina Española de Patentes y Marcas (OEPM), la Oficina Europea de Patentes "
+"(OEP), la Organización Mundial de la Propiedad Industrial (OMPI), en el "
+"marco del Patent Cooperation Treaty (PCT), así como ante distintas oficinas "
+"nacionales de patentes en el extranjero."
+msgstr ""
+"Gwion joined MIAPatents in 2012 where specializes in inventions of a "
+"chemical-pharmaceutical and biotechnological nature.  His work includes "
+"patent drafting, due diligence studies into patentability, infringement and "
+"freedom-to-operate, as well as prosecuting applications before the Spanish "
+"Patent and Trademark Office (SPTO), the European Patent Office (EPO), and "
+"the World Industrial Property Organization (WIPO) within the frame of the "
+"Patent Cooperation Treaty (PCT), amongst other national patent offices."
+
+#: firma.php:56
+msgid "gwion.harfoot@miapatents.com"
+msgstr "gwion.harfoot@miapatents.com"
+
+#: firma.php:60
+msgid ""
+"Comenzó su formación en la propiedad industrial e intelectual en una firma "
+"Alemana con sede en Munich, tras una beca posdoctoral: “Alexander von "
+"Humboldt” en la RWTH Aachen University en Aquisgrán, Alemania. Se doctoró en "
+"la Australian National University en Canberra, Australia, tras licenciarse "
+"en la University of Waikato en Hamilton, Nueva Zelanda. Es autor de "
+"publicaciones en varias revistas científicas de alto impacto y ha presentado "
+"sus trabajos en distintos congresos internacionales."
+msgstr ""
+"Gwion began his training in industrial and intellectual property working in "
+"a German firm based in Munich, after holding an Alexander von Humboldt post-"
+"doctoral fellowship at the RWTH Aachen University in Aachen, Germany. He "
+"received his PhD at the Australian National University in Canberra, "
+"Australia, after graduating from the University of Waikato in Hamilton, New "
+"Zealand. He is the author of numerous scientific publications in high impact "
+"journals and has presented his work at several international conferences."
+
+#: firma.php:64 firma.php:137
+msgid "Juan de Justo"
+msgstr "Juan de Justo"
+
+#: firma.php:69
+msgid ""
+"Audio Engineering Degree (primer ciclo), Middlesex University, Londres "
+"(2002)."
+msgstr ""
+"Audio Engineering degree (first cycle). Middlesex University, London (2002)."
+
+#: firma.php:71
+msgid "Licenciado en Ciencias Físicas, Universidad Autónoma, Madrid (1999)."
+msgstr ""
+"Bachelor’s degree in Physical Science. Universidad Autónoma, Madrid (1999)."
+
+#: firma.php:73
+msgid ""
+"Se inicia en el campo de la propiedad industrial e intelectual en la última "
+"etapa de sus estudios universitarios. Posteriormente se incorpora a la "
+"compañía Jacobacci & Partners, donde se convirtió en socio y para la que "
+"trabajó durante casi 10 años.  Allí adquiere una amplia experiencia en "
+"propiedad industrial e intelectual, especializándose en invenciones "
+"pertenecientes al campo de energías alternativas, de electrónica y de "
+"mecánica."
+msgstr ""
+"Juan began his career in the field of industrial and intellectual property "
+"during the last stage of his university studies. Subsequently, he joined "
+"Jacobacci & Partners, where he was made a partner in 2010 and worked for "
+"almost 10 years, acquiring vast experience in industrial and intellectual "
+"property, specializing in inventions within the fields of alternative "
+"energy, electronics and mechanics."
+
+#: firma.php:79
+msgid "juan.dejusto@miapatents.com"
+msgstr "juan.dejusto@miapatents.com"
+
+#: firma.php:84
+msgid ""
+"Antes de incorporarse a MIAPatents ejerce durante un breve periodo de tiempo "
+"como consultor técnico freelance de propiedad industrial."
+msgstr ""
+"Before joining MIAPatents, Juan briefly worked as a freelance technical "
+"advisor on intellectual property."
+
+#: firma.php:85
+msgid ""
+"En su puesto actual asesora y gestiona la propiedad industrial e "
+"intelectual, principalmente en las áreas mecánica y eléctrica y en las "
+"invenciones implementadas por ordenador, de empresas, universidades y "
+"diferentes grupos de investigación, estudiando la patentabilidad de sus "
+"proyectos, redactando memorias de patente, realizando dictámenes de "
+"infracción y freedom-to-operate y tramitando solicitudes de patente, tanto "
+"ante la Oficina Española de Patentes y Marcas (OEPM), la Oficina Europea de "
+"Patentes y la Organización Mundial de la Propiedad Industrial (OMPI), en el "
+"marco del Patent Cooperation Treaty (PCT), como ante distintas oficinas "
+"nacionales de patentes en el extranjero."
+msgstr ""
+"In his current position Juan provides advice on and manages the industrial "
+"and intellectual property, mainly related to mechanical and electrical areas "
+"and to computer implemented inventions, of businesses, universities and "
+"research organizations. He assesses patentability, infringement and freedom-"
+"to-operate of projects, drafts patent specifications, and processes patent "
+"applications, before the Spanish Patent and Trademark Office (SPTO), the "
+"European Patent Office (EPO), and the World Intellectual Property "
+"Organization (WIPO), within the frame of the Patent Cooperation Treaty "
+"(PCT), amongst other national patent offices."
+
+#: firma.php:86
+msgid ""
+"En 2010 se convirtió en miembro del Colegio Oficial de Físicos de España "
+"formando parte de la lista de peritos judiciales de dicho Colegio Oficial, "
+"especializado en propiedad industrial."
+msgstr ""
+"In 2010 Juan became a member of the Colegio Oficial de Físicos in Spain "
+"where he belongs to the list of legal experts, specializing in intellectual "
+"property."
+
+#: firma.php:90 firma.php:142
+msgid "Lorena Vega"
+msgstr "Lorena Vega"
+
+#: firma.php:95
+msgid ""
+"Executive Master en Innovación, Escuela de Organización Industrial (EOI "
+"Business School), Madrid (2013)."
+msgstr ""
+"Executive Master in Innovation, Escuela de Organización Industrial (EOI "
+"Business School), Madrid (2013)."
+
+#: firma.php:97
+msgid ""
+"Doctora en Bioquímica, Instituto de Biología Funcional y Genómica (IBFG), "
+"CSIC / Universidad de Salamanca (2010)."
+msgstr ""
+"PhD in Biochemistry, Instituto de Biología Funcional y Genómica (IBFG), "
+"CSIC / Universidad de Salamanca (2010)."
+
+#: firma.php:99
+msgid ""
+"Diploma de Estudios Avanzados (DEA) en Microbiología y Genética Moleculares, "
+"Universidad de Salamanca (2007)."
+msgstr "lorena.vega@miapatents.com"
+
+#: firma.php:101
+msgid "Licenciada en Bioquímica, Universidad de Salamanca (2003)."
+msgstr "Bachelor’s degree in Biochemistry, Universidad de Salamanca (2003)."
+
+#: firma.php:106
+msgid "lorena.vega@miapatents.com"
+msgstr "lorena.vega@miapatents.com"
+
+#: firma.php:110
+msgid ""
+"Lorena Vega inicia su actividad profesional como investigadora en el "
+"Instituto de Biología Funcional y Genómica (IBFG) en Salamanca, donde "
+"también lleva a cabo su doctorado, y posteriormente en el Hospital "
+"Universitario de Cruces, en Vizcaya."
+msgstr ""
+"Lorena Vega began her professional career as a researcher at the Instituto "
+"de Biología Funcional y Genómica (IBFG) in Salamanca, where she also carried "
+"out her PhD, followed by a stint at the Hospital Universitario de Cruces in "
+"Vizcaya."
+
+#: firma.php:112
+msgid ""
+"En 2012 se incorpora a la empresa VLPbio The Vaccines Company, donde trabaja "
+"como responsable del laboratorio de I+D y del departamento de propiedad "
+"industrial e intelectual, gestionando la cartera de patentes de la compañía "
+"y realizando informes de vigilancia tecnológica."
+msgstr ""
+"In 2012 Lorena joined the company VLPbio The Vaccines Company, where she was "
+"in charge of the R&D lab, as well as the industrial and intellectual "
+"property department, managing the patent portfolio of the company and "
+"drafting technical monitoring reports."
+
+#: firma.php:113
+msgid ""
+"Desde 2014 forma parte de MIAPatents donde realiza estudios de "
+"patentabilidad, redacción y tramitación de patentes, tanto ante la Oficina "
+"Española de Patentes y Marcas (OEPM), la Oficina Europea de Patentes y la "
+"Organización Mundial de la Propiedad Industrial (OMPI), en el marco del "
+"Patent Cooperation Treaty (PCT), como ante distintas oficinas nacionales de "
+"patentes en el extranjero."
+msgstr ""
+"Since 2014 Lorena became a member of MIAPatents, where she conducts "
+"patentability studies, patent drafting and processing, before the Spanish "
+"Patent and Trademark Office (SPTO), the European Patent Office (EPO), and "
+"the World Intellectual Property Organization (WIPO), within the frame of the "
+"Patent Cooperation Treaty (PCT), amongst other national patent offices."
+
+#: firma.php:115
+msgid ""
+"Ha publicado en revistas científicas de alto impacto y ha presentado sus "
+"trabajos en distintos congresos internacionales."
+msgstr ""
+"Lorena has published articles in high impact scientific journals and has "
+"presented her projects at several international conferences."
+
+#: firma.php:123
+msgid "PROFESIONALES"
+msgstr "PROFESSIONALS"
+
+#: footer.php:5
+msgid "© Manuel Illescas Asociados, 2014"
+msgstr "© Manuel Illescas Asociados, 2014"
+
+#: footer.php:9
+msgid "Paulino Mendívil, 1, bajo derecha"
+msgstr "Paulino Mendívil, 1, bajo derecha"
+
+#: footer.php:21
+msgid "Correo electrónico: mail@miapatents.com"
+msgstr "Email: mail@miapatents.com"
+
+#: header.php:82
+msgid ""
+"&ldquo;Una invención debe plantarse en el suelo fértil de una legislación "
+"favorable.<br>\n"
+"Cultivarse con esmero por parte de un buen profesional de las patentes."
+"<br>Protegerse de las plagas de los imitadores por jueces especializados."
+"<br>Y, finalmente, recoger sus frutos por empresas y organismos públicos, "
+"para disfrute de la sociedad&rdquo;"
+msgstr ""
+"&ldquo;An invention must be based in the fertile soil of favorable "
+"legislation.<br>\n"
+"Carefully cultivated by a good patent professional.<br>Protected by "
+"specialized judges from outbreaks of imitators.<br>And finally have its "
+"rewards reaped by companies and government agencies, for the enjoyment of "
+"society.&rdquo;"
+
+#: header.php:96
+msgid ""
+"MIAPatents, tu socio estratégico en Propiedad Industrial e Intelectual (IP)"
+msgstr ""
+"MIAPatents your strategic partner in Industrial and Intellectual Property "
+"(IP)"
+
+#: header.php:100
+msgid ""
+"Manuel Illescas Asociados (MIAPatents) es una firma de propiedad industrial "
+"e intelectual que ofrece a sus clientes un asesoramiento integral, "
+"individualizado y personal. Prestamos especial atención a las patentes de "
+"los sectores biotecnológico, farmacéutico, químico, biomédico, energético, "
+"medioambiental e informático."
+msgstr ""
+"Manuel Illescas Asociados (MIAPatents) is an industrial and intellectual "
+"property firm that offers its clients comprehensive, personalized and "
+"customized advice. We pay special attention to patents in the biotechnology, "
+"pharmaceutical, chemical, biomedical, energy, environment and information-"
+"technology sectors."
+
+#: header.php:101
+msgid ""
+"Su mayor activo radica en la combinación de la alta cualificación técnica y "
+"la experiencia técnico-legal de sus asociados, liderados por Manuel "
+"Illescas, agente europeo de patentes y socio director de la firma, que ha "
+"desarrollado una dilatada carrera profesional de más de 30 años en el ámbito "
+"de la propiedad industrial, en los sectores público y privado."
+msgstr ""
+"MIAPatents’ greatest asset is the combination of high technical "
+"qualifications and the technical-legal expertise of its associates, led by "
+"Manuel Illescas, European Patent  Attorney and Managing Partner of the firm, "
+"who has developed a professional career of over 30 years in the field of "
+"industrial and intellectual property, in both the public and the private "
+"sectors."
+
+#: header.php:102
+msgid ""
+"Con sedes en Madrid y en Bilbao, MIAPatents es una firma involucrada en los "
+"proyectos de sus clientes, capaz de ofrecer un asesoramiento, a nivel "
+"mundial, en materia de propiedad industrial.  MIAPatents se caracteriza por "
+"ofrecer una gestión centralizada en la que priman criterios tales como: "
+"profesionalidad, especialización técnica, capacidades lingüísticas, "
+"fiabilidad y agilidad de plazos."
+msgstr ""
+"With offices in Madrid and Bilbao. MIAPatents is a firm that works closely "
+"with its clients and is actively involved in their projects that offers "
+"advice on all aspects of industrial and intellectual property on a worldwide "
+"scale. Centralized management that emphasizes professionalism, technical "
+"expertise, linguistic skills, reliability and agility in meeting deadlines "
+"are some of MIAPatents main the characteristics."
+
+#: header.php:103
+msgid ""
+"Los proyectos de los clientes se gestionan por un asociado, adscrito al "
+"mismo en función de su especialización técnica, siguiendo siempre una "
+"estrategia de gestión donde prima la racionalización del trabajo y de los "
+"recursos, así como la alta calidad en el servicio."
+msgstr ""
+"Each of our clients' projects are managed by an associate with the "
+"appropriate technical expertise, according to a management strategy which "
+"streamlines labor processes and resources, to afford the highest quality "
+"service."
+
+#: header.php:118
+msgid ""
+"&ldquo;Proteger la innovación hoy es asegurar el futuro el día de "
+"mañana&rdquo;</span><span class=\"floatright\"><br><br>M. Illescas</span>"
+msgstr ""
+"&ldquo;To protect innovation today is to ensure the future of tomorrow&rdquo;"
+"</span><span class=\"floatright\"><br><br>M. Illescas</span>"
+
+#: header.php:132
+msgid "Noticias de inter&eacute;s"
+msgstr "News of interest"
+
+#: header.php:133
+msgid "Anteproyecto de Ley de Patentes"
+msgstr "Draft Law on Patents"
+
+#: header.php:144
+msgid "¿Quieres formar parte de nuestro equipo?"
+msgstr "Would you like to join our team?"
+
+#: header.php:178
+msgid "inicio"
+msgstr "home"
+
+#: header.php:179
+msgid "la firma"
+msgstr "the firm"
+
+#: header.php:180
+msgid "servicios"
+msgstr "services"
+
+#: header.php:181
+msgid "documentación"
+msgstr "documents"
+
+#: header.php:182
+msgid "contacto"
+msgstr "contact"
+
+#: index.php:11
+msgid "Tu socio estratégico en Propiedad Industrial e Intelectual (IP)"
+msgstr "Your strategic partner in Industrial and Intellectual Property (IP)"
+
+#: index.php:16
+msgid ""
+"Firma altamente especializada en patentes, principalmente en sectores tales "
+"como: biotecnología, química, farmacia, medicina, alimentación y energías "
+"alternativas."
+msgstr ""
+"MIA Patents offers services related to all types of industrial and "
+"intellectual property, principally specializing in patents from sectors such "
+"as biotechnology, chemistry, pharmacy, medicine, food and alternative energy."
+
+#: index.php:20
+msgid ""
+"Ayudamos al innovador a elegir la modalidad de protección más adecuada a "
+"cada invención, gracias a una extensa cartera de servicios, en todas las "
+"modalidades de propiedad industrial e intelectual."
+msgstr ""
+"At MIA Patents we help the innovator to choose the most appropriate form of "
+"protection for each invention, thanks to an extensive portfolio of services "
+"related to all types of industrial property."
+
+#: index.php:24
+msgid ""
+"Análisis de los resultados de los proyectos de I+D+i asesorando, según las "
+"características del propio proyecto y su estado de desarrollo, sobre la "
+"modalidad de protección más adecuada y al menor coste, en el ámbito nacional "
+"e internacional."
+msgstr ""
+"MIA Patents analyses the results of R&D&i projects and advises on the form "
+"of protection that is best suited to the specifications of each project, its "
+"stage of development and its budget, both on a national and an international "
+"level."
+
+#: servicios.php:8 servicios.php:53
+msgid "Patentes y modelos de utilidad"
+msgstr "PATENTS AND UTILITY MODELS"
+
+#: servicios.php:11
+msgid ""
+"En MIAPatents ofrecemos un servicio integral en materia de patentes, a nivel "
+"nacional en España, Europeo ante la EPO e internacional, país por país o vía "
+"centralizada PCT."
+msgstr ""
+"MIAPatents provides full services in patent matters, at national level in "
+"Spain, or at European level before EPO or also at international level, "
+"country by country of via PCT centralized route."
+
+#: servicios.php:12
+msgid ""
+"Redacción y tramitación de solicitudes de patentes y modelos de utilidad"
+msgstr "Drafting and prosecution of patent and utility model applications"
+
+#: servicios.php:13
+msgid ""
+"Redactamos la memoria de una patente o de un modelo de utilidad basándonos "
+"en la información que proporciona el cliente, con quien establecemos una "
+"estrecha colaboración vía telefónica, por videoconferencia, correo "
+"electrónico o en reuniones personales. La información técnica acerca de la "
+"invención que se va a patentar se complementa eventualmente con búsquedas a "
+"medida, realizadas por nuestro personal o por nuestros colaboradores "
+"externos."
+msgstr ""
+"MIAPatents drafts patent and utility model specifications based on the "
+"information provided by our clients, with whom our personnel establish a "
+"close working relationship by phone, video conference, email or personal "
+"meetings. The technical information regarding the invention to be patented "
+"is complemented with customized, defined research."
+
+#: servicios.php:14
+msgid ""
+"MIAPatents gestiona directamente la tramitación de solicitudes de patentes "
+"europeas, españolas e internacionales (PCT), así como de cualquier otro país "
+"en el que se quiera obtener la protección, donde contamos con una red de "
+"asociados extranjeros de confianza, lo que nos permite ofrecer unos "
+"servicios de tramitación de alta calidad en todo el mundo."
+msgstr ""
+"MIAPatents directly handles European, Spanish and international patent (PCT) "
+"proceedings.  In addition, our firm has a network of trusted partners, which "
+"allows us to offer high quality services in patent and utility model "
+"proceedings on a worldwide level."
+
+#: servicios.php:15
+msgid "Informes de patentabilidad"
+msgstr "Patentability reports"
+
+#: servicios.php:16
+msgid ""
+"Elaboramos informes a medida sobre patentabilidad valorando, frente al "
+"estado de la técnica aportado por el cliente u obtenido por nuestros medios, "
+"si una invención cumple con los requisitos de patentabilidad y cuál es el "
+"alcance de la protección que puede obtenerse."
+msgstr ""
+"MIAPatents generates tailored reports on patentability in which it is "
+"evaluated whether an invention complies with the requirements of "
+"patentability over the prior art, as well as the scope of protection that "
+"can be expected.  "
+
+#: servicios.php:17
+msgid "Informes de libertad de operación (Freedom To Operate, FTO)"
+msgstr "Freedom to operate reports (FTO)"
+
+#: servicios.php:18
+msgid ""
+"MIAPatents cuenta con una dilatada y demostrada experiencia en evaluar el "
+"riesgo de infracción de los derechos de terceros por parte de un determinado "
+"producto o actividad. Estos informes resultan cruciales antes de cada nuevo "
+"lanzamiento al mercado."
+msgstr ""
+"MIAPatents has vast experience in evaluating the risk of infringement of "
+"third party rights by production, sale or use of a specific product or "
+"activity. These reports are crucial before launching a new product on the "
+"market."
+
+#: servicios.php:19
+msgid "Vigilancia tecnológica"
+msgstr "Technological monitoring"
+
+#: servicios.php:20
+msgid ""
+"Además de los servicios tradicionales de tramitación de patentes ofrecemos "
+"sistemas de alerta globales que permiten obtener información actualizada de "
+"nuevas solicitudes de patentes, modelos y diseños en determinados sectores "
+"tecnológicos, definidos según perfiles creados para cliente."
+msgstr ""
+"In addition to traditional patent processing services, MIAPatents offers "
+"global alert systems that allow the latest information on new patent and "
+"utility model applications to be obtained in specific technology sectors, "
+"defined according to technical profiles designed for each client."
+
+#: servicios.php:24 servicios.php:58
+msgid "Marcas y diseños"
+msgstr "TRADEMARKS & DESIGNS"
+
+#: servicios.php:26
+msgid ""
+"En MIAPatents asesoramos en la protección de nuevas marcas y diseños, "
+"minimizando los riegos de infracción de derechos de terceros."
+msgstr ""
+"At MIAPatents, we provide advice on all matters of trademarks and designs, "
+"in order to minimise the risks of infraction of rights hold by third parties."
+
+#: servicios.php:27
+msgid ""
+"Presentamos y tramitamos registros de marcas y diseños Españoles en la "
+"Oficina Española de Patentes y Marcas (OEPM); de marcas y diseños "
+"Comunitarios en la Oficina de Armonización del Mercado Interior (OAMI); y de "
+"marcas y diseños internacionales en la Organización Mundial de la Propiedad "
+"Intelectual (OMPI). Ofrecemos además búsquedas de antecedentes y estudios de "
+"infracción y nulidad."
+msgstr ""
+"MIAPatents directly handles registration and proceedings for European "
+"Community, Spanish and international, trademarks and industrial designs, "
+"before the Office for Harmonization of the Internal Market (OHIM), Spanish "
+"Patent and Trademark Office (SPTO) and the World Intellectual Property "
+"Organization (WIPO). In addition, we also have extensive experience in "
+"evaluating the risk of infringement and nullity of trademarks and industrial "
+"designs through background searches and reports."
+
+#: servicios.php:31 servicios.php:63
+msgid "Derechos de Autor"
+msgstr "COPYRIGHTS"
+
+#: servicios.php:33
+msgid ""
+"En MIAPatents protegemos los derechos de artistas y creadores, en especial "
+"los desarrollos de software, a través de estrategias de protección ad hoc "
+"que pueden incluir registros de propiedad intelectual."
+msgstr ""
+"At MIAPatents we protect the rights of artists and inventors, especially in "
+"the software sector, through customized protection strategies."
+
+#: servicios.php:37 servicios.php:68
+msgid "Asesoriamiento legal"
+msgstr "LEGAL COUNSEL"
+
+#: servicios.php:39
+msgid ""
+"Nuestra firma cuenta con una amplia experiencia en asuntos legales "
+"relacionados con la defensa de derechos de Propiedad Intelectual en "
+"tribunales, elaboración de dictámenes y segundas opiniones jurídicas, "
+"informes periciales, contratos y licencias."
+msgstr ""
+"MIAPatents has extensive experience in legal matters related to defending "
+"intellectual property rights in court, drawing up expert and legal opinions, "
+"contracts and licenses."
+
+#: servicios.php:41
+msgid ""
+"Por la experiencia de su equipo MIAPatents ofrece asistencia en "
+"procedimientos de anulación e infracción de patentes, marcas y diseños. "
+"Habitualmente su personal participa en litigios en materia de patentes, "
+"marcas y diseños como peritos y colaborando con despachos externos "
+"especializados en este tipo de procesos."
+msgstr ""
+"Thanks to the experience of the team at MIAPatents, we offer assistance in "
+"nullity and infringement proceedings relating to patents, trademarks and "
+"designs.  Due to our expertise, our employees frequently take part in "
+"litigation proceedings in the patent, trademark and designs fields as "
+"experts and working with external law firms specialized in this type of "
+"proceedings."
+
+#: servicios.php:42
+msgid ""
+"Además, MIAPatents ofrece asesoría en asuntos legales, tales como la "
+"negociación de licencias de patentes, marcas y diseños, redacción de "
+"contratos de transferencia de tecnología, contratos de confidencialidad y "
+"cláusulas de protección de las invenciones en contratos laborales."
+msgstr ""
+"Moreover, MIAPatents additionally offers counsel on legal matters such as "
+"negotiation of patent, trademark and design licenses, drafting of technology-"
+"transfer contracts, confidentiality agreements and protective clauses for "
+"inventions in employment contracts."
+
+#: servicios.php:49
+msgid "SERVICIOS"
+msgstr "SERVICES"

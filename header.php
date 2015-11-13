@@ -180,7 +180,7 @@ Cultivarse con esmero por parte de un buen profesional de las patentes.<br>Prote
                         <li <?php if($page == 2) echo "class=\"active\""; ?> ><a href="servicios.php?lang=<?php echo $locale_lang;  ?>"><?php echo translator("servicios") ?></a></li>
                         <li <?php if($page == 3) echo "class=\"active\""; ?> ><a href="documentacion.php?lang=<?php echo $locale_lang;  ?>"><?php echo translator("documentación") ?></a></li>
                         <li <?php if($page == 4) echo "class=\"active\""; ?> ><a href="contacto.php?lang=<?php echo $locale_lang;  ?>"><?php echo translator("contacto") ?></a></li>
-                        <li><a href="<?php echo /*$page_url."?lang=".($locale_lang == 'es' ? 'en_US' : 'es'); */ "coming-soon.php" ?>"><?php if($locale_lang == 'es'){echo "english";}else{echo "español";} ?></a></li>
+                        <li><a href="<?php echo $page_url."?lang=".($locale_lang == 'es' ? 'en_US' : 'es'); ?>"><?php if($locale_lang == 'es'){echo "english";}else{echo "español";} ?></a></li>
                     </ul>
                 </nav>
             </div>

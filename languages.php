@@ -5,24 +5,23 @@
 	ini_set('arg_separator.output', '&amp;');
 	ini_set("url_rewriter.tags","a=href,area=href,frame=src,iframe=src,input=src");
 
-	
 	session_start();
 	header('Cache-control: private'); // IE 6 FIX
-	 
-	if(isSet($_GET['lang']))
+
+	if(isset($_GET['lang']))
 	{
 		$locale_lang = $_GET['lang'];
-	 
+		
 		// register the session and set the cookie
 		$_SESSION['lang'] = $locale_lang;
-	 
+
 		setcookie('lang', $locale_lang, time() + (3600 * 24 * 30));
 	}
-	else if(isSet($_SESSION['lang']))
+	elseif(isset($_SESSION['lang']))
 	{
 		$locale_lang = $_SESSION['lang'];
 	}
-	else if(isSet($_COOKIE['lang']))
+	elseif(isset($_COOKIE['lang']))
 	{
 		$locale_lang = $_COOKIE['lang'];
 	}
@@ -53,20 +52,20 @@
 		0 => "MIAPatents, patentes, manuel illescas asociados, marcas, modelos, biotechnology, biotecnologia, patents, models",
 	);
 	
-	if($locale_lang != 'es'){
+	if(strcmp($locale_lang,'es') != 0){
 		$lang = "en";
 	}
 	else{
 		$lang = "es";
 	}
-	
-	$locale_file = new FileReader("locale/$locale_lang/LC_MESSAGES/messages.mo");
-	
+
+	$locale_file = new FileReader("locale/$locale_lang/LC_MESSAGES/default.mo");
+
 	$locale_fetch = new gettext_reader($locale_file);
-	
+
 	function translator($text){
 		global $locale_fetch;
-		
-		return $locale_fetch->translate($text);	
+
+		return $locale_fetch->translate($text);
 	}
 ?>

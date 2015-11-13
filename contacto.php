@@ -1,5 +1,6 @@
 <?php
 	$page = 4;
+    $page_url = 'contacto.php';
 	require_once('languages.php');
     include_once('header.php');
 ?> 
