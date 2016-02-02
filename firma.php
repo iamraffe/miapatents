@@ -58,7 +58,7 @@
             </div>
         </div>
         <div class="section group bioDesc">
-				<p><?php echo translator("Comenzó su formación en la propiedad industrial e intelectual en una firma Alemana con sede en Munich, tras una beca posdoctoral: “Alexander von Humboldt” en la RWTH Aachen University en Aquisgrán, Alemania. Se doctoró en la Australian National University en Canberra, Australia, tras licenciarse en la University of Waikato en Hamilton, Nueva Zelanda. Es autor de publicaciones en varias revistas científicas de alto impacto y ha presentado sus trabajos en distintos congresos internacionales.") ?></p>      
+				<p><?php echo translator("Comenzó su formación en la propiedad industrial e intelectual en una firma Alemana con sede en Munich, tras una beca posdoctoral: “Alexander von Humboldt” en la RWTH Aachen University en Aquisgrán, Alemania. Es autor de publicaciones en varias revistas científicas de alto impacto y ha presentado sus trabajos en distintos congresos internacionales.") ?></p>      
         </div>       
     </div>
     <div id="juan-popup" class="white-popup mfp-hide bio">
@@ -83,7 +83,7 @@
         <div class="section group bioDesc">       
 
 				<p><?php echo translator("Antes de incorporarse a MIAPatents ejerce durante un breve periodo de tiempo como consultor técnico freelance de propiedad industrial.") ?></p>
-                <p><?php echo translator("En su puesto actual asesora y gestiona la propiedad industrial e intelectual, principalmente en las áreas mecánica y eléctrica y en las invenciones implementadas por ordenador, de empresas, universidades y diferentes grupos de investigación, estudiando la patentabilidad de sus proyectos, redactando memorias de patente, realizando dictámenes de infracción y freedom-to-operate y tramitando solicitudes de patente, tanto ante la Oficina Española de Patentes y Marcas (OEPM), la Oficina Europea de Patentes y la Organización Mundial de la Propiedad Industrial (OMPI), en el marco del Patent Cooperation Treaty (PCT), como ante distintas oficinas nacionales de patentes en el extranjero.") ?></p>
+                <p><?php echo translator("En su puesto actual asesora y gestiona la propiedad industrial e intelectual, principalmente en las áreas mecánica y eléctrica y en las invenciones implementadas en ordenador. Lleva a cabo labores tales como la realización de informes de patentabilidad, redacción de memorias de patentes, emisión de dictámenes de infracción y FTO y tramitación de solicitudes de patente, tanto ante la Oficina Española de Patentes y Marcas (OEPM), la Oficina Europea de Patentes y la Organización Mundial de la Propiedad Industrial (OMPI), en el marco del Patent Cooperation Treaty (PCT), como ante distintas oficinas nacionales de patentes en el extranjero.") ?></p>
                 <p><?php echo translator("En 2010 se convirtió en miembro del Colegio Oficial de Físicos de España formando parte de la lista de peritos judiciales de dicho Colegio Oficial, especializado en propiedad industrial.") ?></p>
         </div>
     </div>

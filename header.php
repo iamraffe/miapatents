@@ -80,7 +80,7 @@
 								<div id=\"foo\">
 									<ul class=\"slideme\">
 										<li><p class=\" bannerText\">". translator("&ldquo;Una invención debe plantarse en el suelo fértil de una legislación favorable.<br>
-Cultivarse con esmero por parte de un buen profesional de las patentes.<br>Protegerse de las plagas de los imitadores por jueces especializados.<br>Y, finalmente, recoger sus frutos por empresas y organismos públicos, para disfrute de la sociedad&rdquo;") ."</p><img src=\"img/plant.jpg\" alt=\"Planta verde\"></li>
+Cultivarse con esmero por parte de un buen profesional de las patentes.<br>Protegerse de las plagas de los imitadores por jueces especializados.<br>Y, finalmente, recoger sus frutos por empresas y organismos públicos, para disfrute de la sociedad&rdquo;<br>M. Illescas") ."</p><img src=\"img/plant.jpg\" alt=\"Planta verde\"></li>
 									 </ul>
 								</div>
 							
@@ -130,7 +130,7 @@ Cultivarse con esmero por parte de un buen profesional de las patentes.<br>Prote
 
 								<div class=\"section group introText\"  style=\"padding-top: 115px;\">
 									<h2>" . translator("Noticias de inter&eacute;s") . "</h2>
-									<p class=\"iAmLink\"><a href=\"http://www.oepm.es/es/sobre_oepm/noticias/2014/2014_11_14_Modernizacion_Ley_Patentes.html\" target=\"_blank\">" . translator("Anteproyecto de Ley de Patentes") ."</a></p>
+									<p class=\"iAmLink\"><a href=\"".translator("includes/NuevaLeydePatentesEspanola.pdf") ."\" target=\"_blank\">" . translator("Nueva Ley Española de Patentes") ."</a></p>
 								</div>
 							";
 							
@@ -180,7 +180,7 @@ Cultivarse con esmero por parte de un buen profesional de las patentes.<br>Prote
                         <li <?php if($page == 2) echo "class=\"active\""; ?> ><a href="servicios.php?lang=<?php echo $locale_lang;  ?>"><?php echo translator("servicios") ?></a></li>
                         <li <?php if($page == 3) echo "class=\"active\""; ?> ><a href="documentacion.php?lang=<?php echo $locale_lang;  ?>"><?php echo translator("documentación") ?></a></li>
                         <li <?php if($page == 4) echo "class=\"active\""; ?> ><a href="contacto.php?lang=<?php echo $locale_lang;  ?>"><?php echo translator("contacto") ?></a></li>
-                        <li><a href="<?php echo $page_url."?lang=".($locale_lang == 'es' ? 'en_US' : 'es'); ?>"><?php if($locale_lang == 'es'){echo "english";}else{echo "español";} ?></a></li>
+                        <li style=" font-size: 10px; margin-top: 1.5px;"><a href="<?php echo $page_url."?lang=".($locale_lang == 'es' ? 'en_US' : 'es'); ?>"><?php if($locale_lang == 'es'){echo "english";}else{echo "español";} ?></a></li>
                     </ul>
                 </nav>
             </div>

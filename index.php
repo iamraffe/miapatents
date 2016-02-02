@@ -9,7 +9,7 @@
 		<div class="standardcontainer" >
 			<div class="maincontent">
 				<div class="group banner">
-                	<h2><?php echo translator("Tu socio estratégico en Propiedad Industrial e Intelectual (IP)"); ?></h2>
+                	<h2><?php echo translator("Tu socio estratégico en Propiedad Intelectual (IP)"); ?></h2>
 				</div>
                 <div class="section group">
                 	<div class="col span_1_of_3 teaser">

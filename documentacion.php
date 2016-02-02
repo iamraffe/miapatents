@@ -29,17 +29,17 @@
                     </div>
                 	<div class="col span_1_of_2 documentos">
                     	<img src="img/documentos.svg" alt="Documentos">
-                    	<p><a href="includes/poderOEPM.pdf" target="_blank"><?php echo translator("Documento de representación OEPM"); ?></a></p>		
-                        <p><a href="includes/poderEPO.pdf" target="_blank"><?php echo translator("Documento de representación EPO"); ?></a></p>	
-                        <p><a href="includes/poderOAMI.pdf" target="_blank"><?php echo translator("Documento de representación OAMI"); ?></a></p>	
-                        <p><a href="includes/poderPCT.pdf" target="_blank"><?php echo translator("Documento de representación PCT"); ?></a></p>	
-                    	<p><a href="includes/CDAGeneralMIAPatents.pdf" target="_blank"><?php echo translator("Acuerdo de confidencialidad (CDA)"); ?></a></p>		
-                        <p><a href="includes/FichaCliente.pdf" target="_blank"><?php echo translator("Ficha cliente"); ?></a></p>	
-                        <p><a href="includes/InstruccionesSolicitudPatente.pdf" target="_blank"><?php echo translator("Instrucciones para la redacción de una memoria de patente"); ?></a></p>	
-                        <p><a href="includes/InstruccionesInformePatentabilidad.pdf" target="_blank"><?php echo translator("Información para elaborar informe patentabilidad"); ?></a></p>	
-                    	<p><a href="includes/InstruccionesInformeInfraccion.pdf" target="_blank"><?php echo translator("Información para elaborar informe de infracción/FTO"); ?></a></p>		
-                    	<p><a href="includes/InstruccionesSolicitudDisenoIndustrial.pdf" target="_blank"><?php echo translator("Instrucciones para la solicitud de un diseño industrial"); ?></a></p>		
-                    	<p><a href="includes/InstruccionesSolicitudMarca.pdf" target="_blank"><?php echo translator("Información para solicitar una marca"); ?></a></p>	
+                    	<p><a href="includes/<?php echo translator("DocumentoderepresentacionOEPM.pdf") ?>" target="_blank"><?php echo translator("Documento de representación OEPM"); ?></a></p>		
+                        <p><a href="includes/<?php echo translator("DocumentoderepresentacionEPO.pdf") ?>" target="_blank"><?php echo translator("Documento de representación EPO"); ?></a></p>	
+                        <p><a href="includes/<?php echo translator("DocumentoderepresentacionOAMI.pdf") ?>" target="_blank"><?php echo translator("Documento de representación OAMI"); ?></a></p>	
+                        <p><a href="includes/<?php echo translator("DocumentoderepresentacionPCT.pdf") ?>" target="_blank"><?php echo translator("Documento de representación PCT"); ?></a></p>	
+                    	<p><a href="includes/<?php echo translator("Acuerdodeconfidencialidad.pdf") ?>" target="_blank"><?php echo translator("Acuerdo de confidencialidad (CDA)"); ?></a></p>		
+                        <p><a href="includes/<?php echo translator("Fichacliente.pdf") ?>" target="_blank"><?php echo translator("Ficha cliente"); ?></a></p>	
+                        <p><a href="includes/<?php echo translator("Instruccionesparalaredacciondeunamemoriadepatente.pdf") ?>" target="_blank"><?php echo translator("Instrucciones para la redacción de una memoria de patente"); ?></a></p>	
+                        <p><a href="includes/<?php echo translator("InstruccionesparaelaborarInformePatentabilidad.pdf") ?>" target="_blank"><?php echo translator("Información para elaborar informe patentabilidad"); ?></a></p>	
+                    	<p><a href="includes/<?php echo translator("Informacionparaelaborarinformedeinfraccion-FTO.pdf") ?>" target="_blank"><?php echo translator("Información para elaborar informe de infracción-FTO"); ?></a></p>		
+                    	<p><a href="includes/<?php echo translator("Instruccionesparalasolicituddisenoindustrial.pdf") ?>" target="_blank"><?php echo translator("Instrucciones para la solicitud de un diseño industrial"); ?></a></p>		
+                    	<p><a href="includes/<?php echo translator("Instruccionesparasolicitarunamarca.pdf") ?>" target="_blank"><?php echo translator("Instrucciones para solicitar una marca"); ?></a></p>	
                     </div>
                 </div>
 		</div>
