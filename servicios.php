@@ -9,7 +9,7 @@
         <h4><?php echo translator("Patentes y modelos de utilidad") ?></h4>
 
         <div class="section group serveDesc"> 
-            <p><?php echo translator("En MIAPatents ofrecemos un servicio integral en materia de patentes, a nivel nacional en España, Europeo ante la EPO e internacional, país por país o vía centralizada PCT.") ?></p>   
+            <p><?php echo translator("En MIAPatents ofrecemos un servicio integral en materia de patentes, a nivel nacional en España, Europeo ante la OEP e internacional, país por país o vía centralizada PCT.") ?></p>   
         	<h5><?php echo translator("Redacción y tramitación de solicitudes de patentes y modelos de utilidad") ?></h5>
             <p><?php echo translator("Redactamos la memoria de una patente o de un modelo de utilidad basándonos en la información que proporciona el cliente, con quien establecemos una estrecha colaboración vía telefónica, por videoconferencia, correo electrónico o en reuniones personales. La información técnica acerca de la invención que se va a patentar se complementa eventualmente con búsquedas a medida, realizadas por nuestro personal o por nuestros colaboradores externos.") ?></p>      
             <p><?php echo translator("MIAPatents gestiona directamente la tramitación de solicitudes de patentes europeas, españolas e internacionales (PCT), así como de cualquier otro país en el que se quiera obtener la protección, donde contamos con una red de asociados extranjeros de confianza, lo que nos permite ofrecer unos servicios de tramitación de alta calidad en todo el mundo.") ?></p>

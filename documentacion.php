@@ -30,7 +30,7 @@
                 	<div class="col span_1_of_2 documentos">
                     	<img src="img/documentos.svg" alt="Documentos">
                     	<p><a href="includes/<?php echo translator("DocumentoderepresentacionOEPM.pdf") ?>" target="_blank"><?php echo translator("Documento de representación OEPM"); ?></a></p>		
-                        <p><a href="includes/<?php echo translator("DocumentoderepresentacionEPO.pdf") ?>" target="_blank"><?php echo translator("Documento de representación EPO"); ?></a></p>	
+                        <p><a href="includes/<?php echo translator("DocumentoderepresentacionEPO.pdf") ?>" target="_blank"><?php echo translator("Documento de representación OEP"); ?></a></p>	
                         <p><a href="includes/<?php echo translator("DocumentoderepresentacionOAMI.pdf") ?>" target="_blank"><?php echo translator("Documento de representación OAMI"); ?></a></p>	
                         <p><a href="includes/<?php echo translator("DocumentoderepresentacionPCT.pdf") ?>" target="_blank"><?php echo translator("Documento de representación PCT"); ?></a></p>	
                     	<p><a href="includes/<?php echo translator("Acuerdodeconfidencialidad.pdf") ?>" target="_blank"><?php echo translator("Acuerdo de confidencialidad (CDA)"); ?></a></p>		
